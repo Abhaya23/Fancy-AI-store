@@ -33,7 +33,7 @@ On command line,
 cd to the folder you wish to store the application, 
 clone the project from this GitHub repository
 
-git clone 
+git clone https://github.com/Abhaya23/Fancy-AI-store.git
 Open the project in a code editor, 
 such as Microsoft Visual Studio Code, 
 then stay at the root folder of the project hierachy, 
