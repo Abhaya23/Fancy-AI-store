@@ -9,7 +9,7 @@ List of Resources to Configure in the Cloud Account:
 
 ## Firebase Configuration:
 
-const firebaseConfig = { apiKey: "", authDomain: "", databaseURL: "", projectId: "", storageBucket: "", messagingSenderId: "", appId: "", measurementId: "" };
+'const firebaseConfig = { apiKey: "", authDomain: "", databaseURL: "", projectId: "", storageBucket: "", messagingSenderId: "", appId: "", measurementId: "" };'
 
 ## AWS:
 
@@ -33,28 +33,32 @@ On command line,
 cd to the folder you wish to store the application, 
 clone the project from this GitHub repository
 
-git clone https://github.com/Abhaya23/Fancy-AI-store.git
+git clone 'https://github.com/Abhaya23/Fancy-AI-store.git'
 
 Open the project in a code editor, 
-such as Microsoft Visual Studio Code, 
+such as Microsoft Visual Studio Code,
 then stay at the root folder of the project hierachy, 
 run the server by using the following code:
 
-npm install
+'npm install'
+
 then,
 
-npm start
+'npm start'
+
 Now the backend server is ready
 
 On the command line, go to client folder by typing
 
-cd client
+'cd client'
+
 at client folder, run the front end by typing
 
-npm install
+'npm install'
+
 then,
 
-npm start
+'npm start'
 Now the front end React app is running.
 
 Now the website should automatically pop up on the browser.
